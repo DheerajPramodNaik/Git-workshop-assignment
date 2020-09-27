@@ -4,4 +4,7 @@
 - Pushkar Anand
 
 ## Participants
+- Suraj G
+- Parjanya HK
 - Dheeraj Pramod Naik
+
